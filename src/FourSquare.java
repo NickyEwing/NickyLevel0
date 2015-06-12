@@ -1,5 +1,4 @@
 // Copyright Wintriss Technical Schools 2013
-import javax.swing.JOptionPane;
 
 import org.teachingextensions.logo.Colors;
 import org.teachingextensions.logo.Tortoise;
